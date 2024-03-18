@@ -35,6 +35,7 @@ Ainda pensando...
 <a id="recursos-técnicos-utilizados"></a>
 
 - Firebase(Realtime Database)
+- Terapia Cognitiva Comportamental
 - Raspagem de dados
 - Cloud Functions
 - Api Dialogflow
